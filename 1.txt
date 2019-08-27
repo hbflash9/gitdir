@@ -3,3 +3,4 @@ git is free software
 if($id==2){
 	echo 4;
 }
+//修改了购物车方法
