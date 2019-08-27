@@ -1,2 +1,5 @@
 git is a version control system
 git is free software
+if($id==2){
+	echo 4;
+}
